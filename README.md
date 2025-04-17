@@ -29,12 +29,4 @@ To run the application, make sure you're in the project root directory and execu
 streamlit run app.py
 ```
 
-The application will open in your default web browser at `http://localhost:8501`.
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+The application will open in your default web browser at `http://localhost:8501` or the appropriate url provided by the local system.
