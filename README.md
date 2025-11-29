@@ -1,7 +1,5 @@
 # TSIC Project
 
-This is a Streamlit-based application for [brief description of your project].
-
 ## Setup
 
 1. Clone the repository:
