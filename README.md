@@ -6,7 +6,7 @@ This is a Streamlit-based application for [brief description of your project].
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/zain4849/TrafficSign-Image-Classification.git
 cd tsic
 ```
 
